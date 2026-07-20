@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=600&color=A78BFA&center=true&vCenter=true&width=480&height=70&lines=Kevinn+Chansaa;Full+Stack+Engineer;Linux+Enthusiast;Backend+Developer;DevSecOps+Learner;AI+Automation+Builder">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=600&color=A78BFA&center=true&vCenter=true&width=480&height=70&lines=KevinCHansa;Full+Stack+Engineer;Linux+Enthusiast;AI+Automation">
     <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=600&color=475569&center=true&vCenter=true&width=480&height=70&lines=Kevinn+Chansaa;Full+Stack+Engineer;Linux+Enthusiast;Backend+Developer;DevSecOps+Learner;AI+Automation+Builder">
   </picture>
 </div>
@@ -78,7 +78,6 @@ Phase 2  Backend & DevOps          Go, Redis, CI/CD, Observability   ███�
 Phase 3  DevSecOps                 OWASP, Trivy, Vault, SAST/DAST    ██░░░░░░░░
 Phase 4  Cloud & Platform          K8s, Terraform, AWS, ArgoCD       █░░░░░░░░░
 Phase 5  AI Engineering            LangChain, RAG, vLLM, MCP         ██░░░░░░░░
-Phase 6  Systems Programming       Rust, gRPC, Kafka, Raft           ░░░░░░░░░░
 ```
 
 ---
@@ -95,21 +94,13 @@ learning:
 
 building:
   - DAPENSE — payment platform
-  - Portfolio v3
-  - Laravel Starter Kit
-  - Linux development environment
-  - AI automation tools
+  - Portfolio 
 
 exploring:
   - Agentic AI & MCP
   - RAG pipelines
   - PostgreSQL performance
   - Cloud architecture
-
-next:
-  - CKA certification
-  - DevSecOps deep dive
-  - AWS fundamentals
 ```
 
 ---
