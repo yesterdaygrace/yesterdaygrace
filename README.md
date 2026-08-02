@@ -22,22 +22,6 @@ I build web apps, automate workflows, and dig into infrastructure as I go.
 - **AI**: Building automation tools, learning RAG, MCP, agentic workflows
 
 ---
-## Stats
-
-<p>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fzrilsh&theme=github_dark" />
-</p>
-
-<p>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fzrilsh&theme=github_dark" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fzrilsh&theme=github_dark" />
-</p>
-
-<p>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fzrilsh&theme=github_dark" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fzrilsh&theme=github_dark" />
-</p>
-
 ## Tech Stack
 
 <p>
@@ -63,10 +47,6 @@ I build web apps, automate workflows, and dig into infrastructure as I go.
 ## GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yesterdaygrace&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=8B5CF6&include_all_commits=true" />
-    <img width="49%" alt="stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yesterdaygrace&show_icons=true&count_private=true&hide_border=true&bg_color=f8fafc&title_color=7C3AED&text_color=475569&icon_color=6366F1&include_all_commits=true" />
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesterdaygrace&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8" />
     <img width="38%" alt="top langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesterdaygrace&layout=compact&hide_border=true&bg_color=f8fafc&title_color=7C3AED&text_color=475569&langs_count=8" />
