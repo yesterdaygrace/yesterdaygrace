@@ -22,6 +22,21 @@ I build web apps, automate workflows, and dig into infrastructure as I go.
 - **AI**: Building automation tools, learning RAG, MCP, agentic workflows
 
 ---
+## Stats
+
+<p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fzrilsh&theme=github_dark" />
+</p>
+
+<p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fzrilsh&theme=github_dark" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fzrilsh&theme=github_dark" />
+</p>
+
+<p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fzrilsh&theme=github_dark" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fzrilsh&theme=github_dark" />
+</p>
 
 ## Tech Stack
 
@@ -42,66 +57,6 @@ I build web apps, automate workflows, and dig into infrastructure as I go.
   <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" /></a>
 </p>
-
----
-
-## Featured Projects
-
-<details open>
-  <summary><b>DAPENSE</b> — Payment platform</summary>
-
-  **Stack**: PHP, Laravel, Postgres, Redis, Docker  
-  **Status**: Active development  
-</details>
-
-<details>
-  <summary><b>Portfolio v3</b> — Personal site</summary>
-
-  **Stack**: TypeScript, React, Next.js, Tailwind  
-  **Status**: In progress  
-</details>
-
-<details>
-  <summary><b>Laravel Starter Kit</b> — Bootstrap new projects faster</summary>
-
-  **Stack**: PHP, Laravel, Docker  
-  **Status**: Planning  
-</details>
-
----
-
-## Learning Roadmap
-
-```
-Phase 1  Full Stack Foundations    PHP, Laravel, React, Docker       ████████░░
-Phase 2  Backend & DevOps          Go, Redis, CI/CD, Observability   ████░░░░░░
-Phase 3  DevSecOps                 OWASP, Trivy, Vault, SAST/DAST    ██░░░░░░░░
-Phase 4  Cloud & Platform          K8s, Terraform, AWS, ArgoCD       █░░░░░░░░░
-Phase 5  AI Engineering            LangChain, RAG, vLLM, MCP         ██░░░░░░░░
-```
-
----
-
-## Current Focus
-
-```yaml
-learning:
-  - Go
-  - Docker & CI/CD
-  - DevSecOps fundamentals
-  - Kubernetes
-  - AI Engineering (RAG, MCP, agents)
-
-building:
-  - DAPENSE — payment platform
-  - Portfolio 
-
-exploring:
-  - Agentic AI & MCP
-  - RAG pipelines
-  - PostgreSQL performance
-  - Cloud architecture
-```
 
 ---
 
