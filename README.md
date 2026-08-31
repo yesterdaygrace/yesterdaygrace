@@ -18,8 +18,8 @@ I build web apps, automate workflows, and dig into infrastructure as I go.
 
 - **Stack**: PHP / Laravel → TypeScript / React / Next.js → Go (learning)
 - **Infra**: Docker, Linux, Nginx — learning CI/CD, Kubernetes, Terraform
-- **Security**: DevSecOps path — OWASP, Trivy, SAST, Vault
-- **AI**: Building automation tools, learning RAG, MCP, agentic workflows
+- **Security**: DevSecOps path — OWASP, Trivy, SAST, Vault (inLearning)
+- **AI**: Building automation tools, learning RAG, MCP, agentic workflows (inLearning)
 
 ---
 ## Tech Stack
