@@ -1,77 +1,346 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=600&color=A78BFA&center=true&vCenter=true&width=480&height=70&lines=Kevin+Chansa;Full+Stack+Engineer;Linux+Enthusiast;AI+Automation">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=600&color=475569&center=true&vCenter=true&width=480&height=70&lines=Kevinn+Chansaa;Full+Stack+Engineer;Linux+Enthusiast;Backend+Developer;DevSecOps+Learner;AI+Automation+Builder">
-  </picture>
-</div>
+
+
+> **Building things that work. Learning what I don't know yet.**
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Web Developer** focused on **backend engineering, databases, enterprise systems, and practical automation**.
+
+I graduated in Informatics Engineering from **Universitas Kristen Satya Wacana** and have **1 year 5 months of hands-on experience** developing and maintaining real-world software.
+
+My strongest professional experience comes from building **DAPENSE**, a pension fund information system, where I worked across requirements analysis, database design, backend development, testing, deployment, and post-deployment maintenance.
+
+Currently, I'm expanding from my Laravel foundation into **TypeScript and Go**, while going deeper into **Docker, CI/CD, Linux, DevSecOps, and AI-assisted development**.
 
 ```text
-Building things that work. Learning what I don't know yet.
+Backend        → Laravel · PHP · Go · TypeScript · REST APIs
+Frontend       → React · Vue · Tailwind CSS
+Database       → PostgreSQL · MySQL · SQL · Database Design
+Architecture   → Clean Architecture · Layered Architecture · RBAC
+Infrastructure → Linux · Docker · Nginx · CI/CD
+Engineering    → Testing · Debugging · API Design · Performance
+Security       → OWASP · JWT · RBAC · RLS · SAST · Trivy
+AI             → AI-assisted Development · Automation · RAG · MCP
+
 ```
 
 ---
 
-## About Me
+## 🚀 Featured Projects
 
-Full stack developer by trade, Linux tinkerer by choice.
-I build web apps, automate workflows, and dig into infrastructure as I go.
+### 📦 Inventra
 
-- **Stack**: PHP / Laravel → TypeScript / React / Next.js → Go (learning)
-- **Infra**: Docker, Linux, Nginx — learning CI/CD, Kubernetes, Terraform
-- **Security**: DevSecOps path — OWASP, Trivy, SAST, Vault (inLearning)
-- **AI**: Building automation tools, learning RAG, MCP, agentic workflows (inLearning)
+**Inventory Management Backend**
+
+A production-style inventory management system built to explore serious backend engineering patterns.
+
+**Highlights**
+
+- Multi-warehouse inventory
+- Stock ledger &amp; reservations
+- Cycle counts &amp; adjustments
+- Atomic database transactions
+- Row-level locking
+- Idempotent operations
+- JWT authentication
+- RBAC
+- Refresh-token rotation
+- Audit logging
+- CSV exports
+- OpenAPI documentation
+- Docker &amp; CI
+- Automated testing
+
+**Architecture**
+
+```text
+HTTP
+ ↓
+Handler
+ ↓
+Service
+ ↓
+Repository Interface
+ ↓
+GORM
+ ↓
+PostgreSQL
+
+```
+
+**Stack**
+
+`Go` `Gin` `PostgreSQL` `GORM` `JWT` `Docker` `React` `TypeScript`
+
+[View Repository →](https://github.com/yesterdaygrace)
+
+### 🔎 DevScout
+
+**Developer &amp; Opportunity Platform**
+
+A full-stack application combining developer profiles, skills, projects, jobs, applications, and GitHub integration.
+
+**Highlights**
+
+- Developer profiles
+- Skills &amp; project management
+- Job tracking
+- Application tracking
+- GitHub API integration
+- API proxy layer
+- Authentication
+- PostgreSQL relational design
+- Row Level Security
+- API caching
+- Rate limiting
+- OpenAPI
+- Supabase deployment
+
+**Architecture**
+
+```text
+Vue 3
+ ↓
+Hono API
+ ↓
+Supabase
+ ↓
+PostgreSQL
+
+```
+
+**Stack**
+
+`Vue 3` `TypeScript` `Hono` `Supabase` `PostgreSQL` `Pinia`
+
+[View Repository →](https://github.com/yesterdaygrace)
 
 ---
-## Tech Stack
 
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,typescript,react,nextjs,tailwind,postgres,mysql&theme=dark" /></a>
-</p>
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,go,python&theme=dark" /></a>
-</p>
+## 🏢 Professional Experience
 
-### Learning
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" /></a>
-</p>
+### DAPENSE — Pension Fund Information System
 
----
+**Full Stack Web Developer Intern**  
+**Dana Pensiun Sekolah Kristen Salatiga**  
+`Jul 2024 → Dec 2025`
 
-## GitHub Analytics
+Built and maintained a web-based pension fund information system that modernized legacy financial workflows.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesterdaygrace&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8" />
-    <img width="38%" alt="top langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesterdaygrace&layout=compact&hide_border=true&bg_color=f8fafc&title_color=7C3AED&text_color=475569&langs_count=8" />
-  </picture>
-</p>
+### Core Modules
 
----
+```text
+General Ledger
+Journal Processing
+Cash & Bank Transactions
+Financial Reporting
+Balance Reconciliation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yesterdaygrace&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=7C3AED&area=true" />
-  <img width="100%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yesterdaygrace&theme=github-light&hide_border=true&bg_color=f8fafc&color=7C3AED&line=6366F1&point=4F46E5&area=true" />
-</picture>
+```
 
----
+### What I Worked On
 
-## Connect
+- Translated accounting business processes into application requirements
+- Designed ERDs and normalized relational database structures
+- Developed financial transaction workflows
+- Built RESTful APIs
+- Implemented authentication and RBAC
+- Added validation and structured workflows
+- Improved database relationships and query performance
+- Coordinated UAT with accounting stakeholders
+- Implemented user feedback and production fixes
+- Managed deployment and post-deployment maintenance
+- Troubleshot application and infrastructure issues
+- Maintained backups and data-access controls
+- Created functional and technical documentation
 
-<p align="center">
-  <a href="mailto:kevandeschans@gmail.com"><img src="https://img.shields.io/badge/Email-kevandeschans%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+### Engineering Environment
+
+`Laravel` `PHP` `JavaScript` `MySQL` `REST API` `Nginx` `Ubuntu Linux` `Git`
+
+> **Selected project results:** approximately **30–40% improvement in operational efficiency** and **25–30% reduction in manual input errors**, based on project experience and implemented workflow/validation improvements.
 
 ---
 
-<p align="center">
-  <sub><code>Laravel → React → Go → Docker → CI/CD → DevSecOps → K8s → Cloud → AI → Distributed Systems</code></sub>
-  <br>
-  <sub><code>Kevinn Chansaa · yesterdaygrace</code></sub>
-</p>
+## 🧠 Engineering Focus
+
+I don't want my GitHub to become a museum of framework tutorials.
+
+My current focus is building systems where the architecture, database, security, and deployment actually matter.
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                   ENGINEERING FOCUS                   │
+├───────────────────────────────────────────────────────┤
+│                                                       │
+│  Backend Engineering                                  │
+│  ├── REST API design                                  │
+│  ├── Authentication & authorization                  │
+│  ├── Business logic                                   │
+│  └── Service architecture                             │
+│                                                       │
+│  Database Engineering                                 │
+│  ├── PostgreSQL / MySQL                               │
+│  ├── Data modeling                                    │
+│  ├── Normalization                                    │
+│  ├── Indexing                                         │
+│  └── Query optimization                               │
+│                                                       │
+│  Infrastructure                                       │
+│  ├── Linux                                            │
+│  ├── Docker                                           │
+│  ├── Nginx                                            │
+│  └── CI/CD                                            │
+│                                                       │
+│  Security                                             │
+│  ├── JWT / RBAC                                       │
+│  ├── OWASP                                            │
+│  ├── RLS                                              │
+│  └── DevSecOps                                        │
+│                                                       │
+│  AI & Automation                                      │
+│  ├── AI-assisted development                          │
+│  ├── Workflow automation                              │
+│  ├── RAG                                              │
+│  └── MCP / agentic workflows                          │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+### Frameworks &amp; Libraries
+
+### Backend &amp; APIs
+
+### Databases
+
+`Database Design` · `Normalization` · `ERD Modeling` · `Indexing` · `Query Optimization`
+
+### DevOps &amp; Infrastructure
+
+### Testing &amp; Debugging
+
+`PHPUnit` · `Playwright` · `Postman` · `Laravel Debugbar` · `Chrome DevTools`
+
+### AI-Assisted Development
+
+`OpenCode` · `Cursor` · `ChatGPT` · `Codex` · `Claude`
+
+---
+
+## 📊 GitHub Analytics
+
+---
+
+## 🧪 Currently Learning
+
+**☁️ Infrastructure**
+
+`Kubernetes`  
+`Terraform`  
+`Prometheus`  
+`Grafana`  
+`Redis`  
+`RabbitMQ`
+
+**🔐 Security**
+
+`OWASP`  
+`SAST`  
+`Trivy`  
+`DevSecOps`  
+`Secrets Management`
+
+**🤖 AI Engineering**
+
+`RAG`  
+`MCP`  
+`Agentic Workflows`  
+`AI Automation`
+
+**⚙️ Systems**
+
+`Go`  
+`Distributed Systems`  
+`Concurrency`  
+`Performance`
+
+---
+
+## 🗺️ Engineering Roadmap
+
+```text
+                    CURRENT
+                       │
+                       ▼
+              ┌────────────────┐
+              │ Full Stack Web │
+              │ Development    │
+              └───────┬────────┘
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+        Backend            Database
+        Engineering        Engineering
+             │                 │
+             └────────┬────────┘
+                      ▼
+                ┌───────────┐
+                │   Go +    │
+                │ TypeScript│
+                └─────┬─────┘
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+          DevOps            Security
+             │                 │
+             └────────┬────────┘
+                      ▼
+                ┌───────────┐
+                │ Cloud &    │
+                │ DevSecOps  │
+                └─────┬─────┘
+                      │
+                      ▼
+                AI Automation
+                      │
+                      ▼
+              Distributed Systems
+
+```
+
+---
+
+## 🎯 What I'm Building Toward
+
+```text
+Full Stack Engineer
+        ↓
+Backend & Database Engineering
+        ↓
+Cloud / DevOps
+        ↓
+DevSecOps
+        ↓
+AI-powered Systems
+        ↓
+Distributed Systems
+
+```
+
+The goal isn't collecting technologies.
+
+The goal is understanding how a system behaves from **database → backend → API → frontend → infrastructure → security → automation**.
+
+---
+
+## 📫 Connect
+
