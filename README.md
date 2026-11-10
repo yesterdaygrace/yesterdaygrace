@@ -34,6 +34,7 @@ const kevin = {
   role:      "Full Stack Web Developer",
   strongIn:  ["Laravel", "PostgreSQL", "REST APIs", "RBAC"],
   leveling:  ["Go", "TypeScript", "Docker", "CI/CD", "DevSecOps"],
+  shipped:   ["Threads saved-posts scanner", "Inventory ledger", "Pension fund accounting"],
   exploring: ["RAG", "MCP", "Agentic workflows", "Distributed systems"],
   principle: "Architecture, database, security and deployment must actually matter.",
 } as const;
@@ -62,65 +63,104 @@ const kevin = {
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Inventra
-**Inventory Management Backend**
+### 🧵 SijiSiyu
+**Local-first Threads library + saved-posts scanner**
 
-Production-style inventory system built to practice serious backend patterns.
+Nuxt + Nitro backend with Meta Threads OAuth, an encrypted token vault, live SSE sync, and a Chromium extension that scans and syncs your saved posts.
 
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img alt="Gin" src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+<img alt="Vue" src="https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img alt="Extension" src="https://img.shields.io/badge/Chromium_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 
-<a href="https://github.com/yesterdaygrace"><b>View Repository →</b></a>
+<a href="https://github.com/yesterdaygrace/SijiSiyu"><b>View Repository →</b></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔎 DevScout
-**Developer & Opportunity Platform**
+**GitHub developer sourcing & comparison**
 
-Full-stack app combining developer profiles, skills, projects, jobs, applications, and GitHub integration.
+Search, shortlist, compare and score GitHub developers. Collections, markdown notes, saved searches, and a 0–100 candidate score.
 
 <img alt="Vue" src="https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vuedotjs&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
-<img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img alt="Pinia" src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" />
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase_RLS-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
 
-<a href="https://github.com/yesterdaygrace"><b>View Repository →</b></a>
+<a href="https://github.com/yesterdaygrace/DevScout"><b>Repository →</b></a> · <a href="https://dev-scout-lac.vercel.app"><b>Live demo ↗</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Inventra
+**Multi-warehouse inventory system**
+
+Go + PostgreSQL backend with a React dashboard. Append-only ledger, reservations, cycle counts, RBAC, audit trail and idempotent stock operations.
+
+<img alt="Go" src="https://img.shields.io/badge/Go_1.24-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+<a href="https://github.com/yesterdaygrace/Inventra"><b>View Repository →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 DAPENSE
+**Pension fund accounting system**
+
+Double-entry journals, 3NF chart of accounts, period close and role-gated reporting for a real pension fund. Documented with an ERD and a SQL showcase.
+
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL_8.4-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+<a href="https://github.com/yesterdaygrace/DAPENSE"><b>View Repository →</b></a>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📦 Inventra — highlights & architecture</b></summary>
+<summary><b>🧵 SijiSiyu — scanner, security & architecture</b></summary>
 
 <br/>
 
 ```mermaid
 flowchart LR
-    A([HTTP]) --> B[Handler]
-    B --> C[Service]
-    C --> D[[Repository Interface]]
-    D --> E[GORM]
-    E --> F[(PostgreSQL)]
-    style A fill:#6366f1,color:#fff,stroke:none
-    style F fill:#4169E1,color:#fff,stroke:none
+    X([Chromium extension<br/>Saved Scanner]) -->|auto-scan + real-time sync| N[Nitro API]
+    N --> S[(SQLite · WAL)]
+    N <-->|OAuth 2.0 · threads_basic| M[Meta Threads API]
+    N -- SSE /api/events --> U([Nuxt + Vue UI])
+    style X fill:#16a34a,color:#fff,stroke:none
+    style S fill:#003B57,color:#fff,stroke:none
 ```
 
-- 🏬 Multi-warehouse inventory
-- 📒 Stock ledger & reservations
-- 🔢 Cycle counts & adjustments
-- ⚛️ Atomic database transactions + row-level locking
-- 🔁 Idempotent operations
-- 🔐 JWT auth · RBAC · refresh-token rotation
-- 🧾 Audit logging · CSV exports
-- 📘 OpenAPI documentation
-- 🐳 Docker & CI · ✅ automated testing
+**The scan (extension)**
+- Real-time sync: bookmarking a post on `threads.net` streams it to the local app and shows an in-page toast
+- Auto-scan on the `/saved` feed using a `MutationObserver` as new bookmarks load
+- Manual bulk scanner with auto-scroll across your full history, plus JSON backup
+- Offline queue in `chrome.storage.local` that flushes when the backend comes back
+- In-app alternatives: JSON import and a 1-click bookmarklet
+
+**Why a scanner:** Meta's official Threads API does not expose the Saved collection or an Unsave endpoint, so the project does not invent either. The extension reads the logged-in website instead.
+
+**Security & engineering**
+- AES-256-GCM encryption for access tokens at rest, never returned to the frontend
+- HttpOnly / SameSite session cookies; only a SHA-256 hash of each session token is stored
+- OAuth state validation against login CSRF; scanner imports restricted to `threads.net` / `threads.com` permalinks
+- SQLite WAL mode, atomic transactions, singleton guard enforced by `CHECK (singleton = 1)`
+- Live sync via Server-Sent Events; tracking-free "Copy link" that strips `?s=` / `?utm_` params
+- Dynamic collections with auto-tagging keywords; `start.sh` / `saved` CLI with daemon and systemd service modes
+
+> Built for local personal use; the README says not to expose it publicly as-is.
 
 </details>
 
@@ -131,21 +171,83 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A([Vue 3 + Pinia]) --> B[Hono API]
-    B --> C[Supabase]
-    C --> D[(PostgreSQL + RLS)]
+    A([Vue 3 + Pinia]) -->|/api/github/*| B[Hono proxy<br/>Zod · rate limit · cache]
+    B --> G[GitHub REST API]
+    A --> C[Supabase Auth]
+    C --> D[(PostgreSQL + RLS<br/>7 tables · 21 policies)]
     style A fill:#42b883,color:#fff,stroke:none
     style D fill:#3ECF8E,color:#0f172a,stroke:none
 ```
 
-- 👤 Developer profiles, skills & project management
-- 📌 Job and application tracking
-- 🐙 GitHub API integration through an API proxy layer
-- 🔐 Authentication · PostgreSQL relational design · Row Level Security
-- ⚡ API caching · rate limiting
-- 📘 OpenAPI · ☁️ Supabase deployment
+- 🔐 GitHub PAT stays server-side behind a Hono proxy; Zod-validated routes; OpenAPI at `/docs`
+- ⚡ Two-tier cache (client 30 min, server memory) plus a request queue (`MAX_CONCURRENT=10`) to protect API limits
+- 🧮 6-factor candidate score → 0–100 with ranks from *Emerging* to *Exceptional*
+- 📊 Skill breakdown: language bytes aggregated across up to 20 non-fork repos with `Promise.allSettled`
+- 🗄️ Per-user isolation with Row Level Security on all 7 tables
+- 🧪 Vitest unit tests + Playwright E2E · zero-config demo mode
 
 </details>
+
+<details>
+<summary><b>📦 Inventra — highlights & architecture</b></summary>
+
+<br/>
+
+```mermaid
+flowchart LR
+    A([React SPA]) --> B[Gin API /api/v1]
+    B --> C[Service]
+    C --> D[[Repository · GORM]]
+    D --> E[(PostgreSQL 17)]
+    style A fill:#20232A,color:#61DAFB,stroke:none
+    style E fill:#4169E1,color:#fff,stroke:none
+```
+
+- 🏬 Multi-warehouse stock with `UNIQUE(product_id, warehouse_id)` · 17 tables · 13 migrations
+- 📒 Append-only ledger; balances are derived on read with window functions
+- ⚛️ Atomic transactions with `SELECT … FOR UPDATE` row locks on hot paths
+- 🔁 Idempotency keys: same key + same body replays, different body returns `409`
+- 🔐 JWT with rotating refresh tokens and reuse detection · bcrypt · DB-backed RBAC
+- 🧾 Failure-safe audit trail that never blocks business writes
+- ✅ `testify` + `uber mock`, CI coverage gate ≥ 80% per package · `govulncheck` in CI
+- 📚 18 screenshots and 11 docs covering architecture, API, database, ER, security and testing
+
+</details>
+
+<details>
+<summary><b>🏦 DAPENSE — highlights & architecture</b></summary>
+
+<br/>
+
+```mermaid
+flowchart LR
+    H[header_coas] --> C[coas]
+    C --> J[jurnalings<br/>double-entry]
+    P[periodes] --> J
+    J --> V[(Views: neraca saldo · buku besar)]
+    P --> N[neraca_saldos<br/>period snapshot]
+    style J fill:#16a34a,color:#fff,stroke:none
+```
+
+- 🗄️ 3NF schema: 8 core tables, FK cascades, domain uniques, 19 migrations
+- 💰 `NUMERIC(15,2)` money columns with a `bccomp` balanced-journal guard
+- 📅 Period lifecycle: open → closed (`is_rekap`) → trial-balance snapshot
+- 🛡️ 4 roles (`rootsuperuser`, `admin`, `operator`, `bod`), 8 Policies and 4 Gates, enforced server-side
+- 💾 AES-256 encrypted `mysqldump` / `pg_dump` backups with 30-day retention
+- 🐳 Docker Compose for MySQL 8.4 (prod), PostgreSQL 16 (portable) and SQLite (fallback)
+- 📚 Docs on ERD, SQL showcase (synthetic data, no PII), security, testing and deployment
+
+</details>
+
+### 🧰 More repositories
+
+| Repo | What it is | Stack |
+|---|---|---|
+| [**CinemaSystem**](https://github.com/yesterdaygrace/CinemaSystem) | Backend engineer assessment: national-scale cinema ticketing with seat-hold design, 14-table PostgreSQL schema and a Go REST API. Schedule overlaps are blocked in the database with `btree_gist`. | `Go` `PostgreSQL` `JWT` `Swagger` `Postman` |
+| [**Nodex**](https://github.com/yesterdaygrace/Nodex) | "crudin": small CRUD API with pagination, a consistent response envelope and a test suite that locks the API contract. | `Go` `Gin` `GORM` `Vue 3` |
+| [**portfolio**](https://github.com/yesterdaygrace/portfolio) · [live ↗](https://yesterdaygrace.github.io/portfolio/) | Engineering portfolio with architecture case studies. CI runs audit, typecheck and build, then deploys to GitHub Pages. | `React 19` `TypeScript` `Vite` `GSAP` |
+
+> **Note on CinemaSystem:** its README states that the Redis Redlock seat lock is a design proposal for the written test. The Go code does not implement it.
 
 ---
 
@@ -244,15 +346,15 @@ mindmap
 
 **Languages & Frameworks**
 
-<img alt="stack" src="https://skillicons.dev/icons?i=php,laravel,go,ts,js,react,vue,tailwind&perline=8" />
+<img alt="stack" src="https://skillicons.dev/icons?i=php,laravel,go,ts,js,react,vue,nuxt,tailwind,vite&perline=10" />
 
 **Data**
 
-<img alt="data" src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis&perline=8" />
+<img alt="data" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&perline=10" />
 
 **Infra & DevOps**
 
-<img alt="infra" src="https://skillicons.dev/icons?i=linux,fedora,docker,nginx,githubactions,git&perline=8" />
+<img alt="infra" src="https://skillicons.dev/icons?i=linux,fedora,docker,nginx,githubactions,vercel,git&perline=10" />
 
 </div>
 
@@ -263,13 +365,15 @@ mindmap
 
 | Layer | Tools |
 |---|---|
-| **Backend & APIs** | Laravel · PHP · Go (Gin) · Hono · REST · OpenAPI · JWT |
-| **Frontend** | React · Vue 3 · Pinia · Tailwind CSS · TypeScript |
-| **Databases** | PostgreSQL · MySQL · Supabase · Database Design · Normalization · ERD · Indexing · Query Optimization |
+| **Backend & APIs** | Laravel · Livewire · PHP · Go (Gin, GORM) · Nuxt/Nitro · Hono · Zod · REST · OpenAPI/Swagger · JWT · OAuth 2.0 · Server-Sent Events |
+| **Frontend** | React 19 · Vue 3 · Nuxt · Pinia · TanStack Query · Tailwind CSS · Vite · TypeScript · Chart.js |
+| **Browser & integrations** | Chromium extensions (content scripts, background worker, offline queue) · Meta Threads API · GitHub REST API · MutationObserver scanning |
+| **Databases** | PostgreSQL · MySQL · SQLite (WAL) · Redis · Supabase · Database Design · Normalization · ERD · Indexing · Query Optimization |
 | **Architecture** | Clean Architecture · Layered Architecture · RBAC |
-| **Infrastructure** | Linux · Docker · Nginx · CI/CD |
-| **Security** | OWASP · JWT · RBAC · RLS · SAST · Trivy |
-| **Testing & Debugging** | PHPUnit · Playwright · Postman · Laravel Debugbar · Chrome DevTools |
+| **Infrastructure** | Linux · Docker Compose · Nginx · GitHub Actions · Vercel · GitHub Pages · systemd |
+| **Security** | AES-256-GCM token vault · HttpOnly/SameSite sessions · OAuth state (CSRF) · JWT rotation · bcrypt · RBAC · RLS · rate limiting · govulncheck · `pnpm audit` · OWASP |
+| **Testing & Debugging** | testify · uber mock · Vitest · PHPUnit · Playwright · Postman · coverage gates · Laravel Debugbar · Chrome DevTools |
+| **Documentation** | Per-repo `docs/` with architecture, API, database, ER, security, testing and deployment · Mermaid diagrams |
 | **AI-assisted dev** | OpenCode · Cursor · ChatGPT · Codex · Claude |
 
 </details>
@@ -382,6 +486,8 @@ The goal isn't collecting technologies. It's understanding how a system behaves 
 <div align="center">
 
 <a href="https://github.com/yesterdaygrace"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-yesterdaygrace-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kevin-chansa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kevin--chansa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://yesterdaygrace.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-live-16a34a?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 
 <br/><br/>
 
