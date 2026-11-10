@@ -486,7 +486,7 @@ The goal isn't collecting technologies. It's understanding how a system behaves 
 <div align="center">
 
 <a href="https://github.com/yesterdaygrace"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-yesterdaygrace-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kevin-chansa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kevin--chansa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kevin-van-diesel-chansa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kevin%20Van%20Diesel%20Chansa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://yesterdaygrace.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-live-16a34a?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 
 <br/><br/>
