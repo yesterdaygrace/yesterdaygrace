@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:6366f1,100:a855f7&text=Kevin%20Chansa&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Backend%20%C2%B7%20Databases%20%C2%B7%20DevSecOps%20%C2%B7%20AI%20Automation&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" alt="Kevin Chansa — animated forest banner" src="assets/forest-banner.svg" />
 
 <a href="https://github.com/yesterdaygrace">
-  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Building+things+that+work.;Learning+what+I+don%27t+know+yet.;Laravel+%E2%86%92+Go+%2B+TypeScript;Database+%E2%86%92+API+%E2%86%92+Infra+%E2%86%92+Security;Shipping+backends+that+survive+production." />
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=4ADE80&center=true&vCenter=true&width=720&height=50&lines=Building+things+that+work.;Learning+what+I+don%27t+know+yet.;Laravel+%E2%86%92+Go+%2B+TypeScript;Database+%E2%86%92+API+%E2%86%92+Infra+%E2%86%92+Security;Shipping+backends+that+survive+production." />
 </a>
 
 <br/>
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=yesterdaygrace&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&labelColor=0f172a" />
-<img alt="Followers" src="https://img.shields.io/github/followers/yesterdaygrace?style=for-the-badge&logo=github&color=a855f7&labelColor=0f172a" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=yesterdaygrace&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS&labelColor=0f172a" />
+<img alt="Followers" src="https://img.shields.io/github/followers/yesterdaygrace?style=for-the-badge&logo=github&color=22c55e&labelColor=0f172a" />
 <img alt="Repos" src="https://img.shields.io/badge/Experience-1y%205m-22d3ee?style=for-the-badge&labelColor=0f172a" />
 <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=for-the-badge&labelColor=0f172a" />
 
@@ -385,6 +385,6 @@ The goal isn't collecting technologies. It's understanding how a system behaves 
 
 <br/><br/>
 
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:a855f7,50:6366f1,100:0f172a" />
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:14532d,50:16a34a,100:052e16" />
 
 </div>
