@@ -10,8 +10,8 @@
 
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=yesterdaygrace&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS&labelColor=0f172a" />
 <img alt="Followers" src="https://img.shields.io/github/followers/yesterdaygrace?style=for-the-badge&logo=github&color=22c55e&labelColor=0f172a" />
-<img alt="Repos" src="https://img.shields.io/badge/Experience-1y%205m-22d3ee?style=for-the-badge&labelColor=0f172a" />
-<img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=for-the-badge&labelColor=0f172a" />
+<img alt="Repos" src="https://img.shields.io/badge/Experience-2%2B%20years-22d3ee?style=for-the-badge&labelColor=0f172a" />
+<img alt="Status" src="https://img.shields.io/badge/Now-Junior%20SWE%20%40%20Sahabat%20Unggul-22c55e?style=for-the-badge&labelColor=0f172a" />
 
 <br/><br/>
 
@@ -23,15 +23,17 @@
 
 ## 👨‍💻 About
 
-I'm a **Full Stack Web Developer** focused on **backend engineering, databases, enterprise systems, and practical automation**. Graduate in Informatics Engineering from **Universitas Kristen Satya Wacana**, with **1 year 5 months** of hands-on experience shipping and maintaining real software.
+I'm a **Junior Software Engineer** working across **backend, frontend, databases and DevOps**, with a focus on enterprise systems and practical automation. Informatics Engineering graduate from **Universitas Kristen Satya Wacana**, with **2+ years** of hands-on experience shipping and maintaining real software.
 
-My strongest experience is **DAPENSE**, a pension fund information system, where I covered requirements, database design, backend, testing, deployment, and post-launch maintenance.
+**Today:** at **PT Sahabat Unggul International** I maintain and extend a factory's web and desktop business applications, run MySQL/MariaDB (backups, query tuning, monitoring), and support Linux servers with Docker and Apache, working directly with HR, Production, Finance and Warehouse.
 
-Now: moving from a Laravel foundation into **TypeScript and Go**, and going deeper into **Docker, CI/CD, Linux, DevSecOps, and AI-assisted development**.
+**Before:** at **Dana Pensiun Sekolah Kristen Salatiga** I migrated a legacy VDOS financial system to Laravel and built its ledger, journal, cash/bank, reporting and reconciliation modules (**DAPENSE**).
+
+Next: moving from a Laravel foundation into **TypeScript and Go**, and going deeper into **Docker, CI/CD, Linux, DevSecOps, and AI-assisted development**.
 
 ```ts
 const kevin = {
-  role:      "Full Stack Web Developer",
+  role:      "Junior Software Engineer @ PT Sahabat Unggul International",
   strongIn:  ["Laravel", "PostgreSQL", "REST APIs", "RBAC"],
   leveling:  ["Go", "TypeScript", "Docker", "CI/CD", "DevSecOps"],
   shipped:   ["Threads saved-posts scanner", "Inventory ledger", "Pension fund accounting"],
@@ -48,7 +50,9 @@ const kevin = {
 | | |
 |---|---|
 | 🎓 **Education** | Informatics Engineering — Universitas Kristen Satya Wacana |
-| 💼 **Experience** | 1 yr 5 mo (Jul 2024 → Dec 2025) |
+| 💼 **Now** | Junior Software Engineer, PT Sahabat Unggul International (contract, Oct 2026 →) |
+| 🏦 **Before** | Full Stack Web Developer (intern), Dana Pensiun Sekolah Kristen, 1 yr 5 mo (Aug 2024 → Dec 2025) |
+| 🎓 **Teaching** | Teaching Assistant, Web Developer course, UKSW (Aug → Dec 2024) |
 | 🐧 **Daily driver** | Fedora / Linux |
 | 🧭 **Focus** | Backend · Database · Security · Infra · AI automation |
 | 🎯 **Goal** | Understand a system end-to-end: database → backend → API → frontend → infra → security → automation |
@@ -253,11 +257,33 @@ flowchart LR
 
 ## 🏢 Professional Experience
 
-### DAPENSE — Pension Fund Information System
+### 🏭 Junior Software Engineer — PT Sahabat Unggul International
 
-**Full Stack Web Developer Intern** · Dana Pensiun Sekolah Kristen Salatiga · `Jul 2024 → Dec 2025`
+`Oct 2026 → Present` · Contract
 
-Built and maintained a web-based pension fund information system that modernized legacy financial workflows.
+Maintaining and extending the factory's internal business platform (**SUI APPS V2.0**, web and desktop) for operations across HR, Production, Finance and Warehouse.
+
+- Troubleshoot and fix bugs to keep the systems reliable
+- Build and improve features from factory operational and business requirements
+- Run MySQL/MariaDB: backups, query optimization, performance monitoring
+- Support Linux servers: Docker containers, Apache and MySQL services, log monitoring
+- Gather requirements across departments and improve system functionality
+- Document code changes, system updates and operating procedures
+
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL%2FMariaDB-4479A1?style=flat-square&logo=mariadb&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+---
+
+### 🏦 DAPENSE — Pension Fund Information System
+
+**Full Stack Web Developer (Intern)** · Dana Pensiun Sekolah Kristen Salatiga · `Aug 2024 → Dec 2025`
+
+Migrated a legacy **VDOS-based** financial system to a modern **Laravel** web application and built its core modules.
 
 ```mermaid
 flowchart LR
@@ -289,6 +315,8 @@ flowchart LR
 - Managed deployment, post-deployment maintenance, and infrastructure troubleshooting
 - Maintained backups and data-access controls
 - Wrote functional and technical documentation
+- Worked in 1–2 week Agile sprints with stakeholder evaluation after each iteration
+- Tested at unit, integration and UAT level before each release
 
 </details>
 
@@ -300,7 +328,18 @@ flowchart LR
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
-> **Selected project results:** approx. **30–40% improvement in operational efficiency** and **25–30% reduction in manual input errors**, based on project experience and the workflow/validation improvements implemented.
+> **Selected project results (DAPENSE):** approx. **30–40% improvement in operational efficiency** and **25–30% reduction in manual input errors**, based on project experience and the workflow/validation improvements implemented.
+
+---
+
+### 🎓 Teaching Assistant — Web Developer Course
+
+**Universitas Kristen Satya Wacana** · `Aug 2024 → Dec 2024` · Part-time
+
+- Supported **4 classes, 100+ students** with debugging and applied problem-solving
+- Taught HTML, CSS, PHP and MySQL fundamentals
+- Reviewed **400+ coding assignments** for logic, structure and best practices
+- Standardized grading criteria across classes
 
 ---
 
