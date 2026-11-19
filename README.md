@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Kevin Chansa, animated forest banner" src="assets/forest-banner.svg" />
+<img width="100%" alt="Kevin Chansa, animated Y2K banner" src="assets/y2k-banner.svg" />
 
 <a href="https://github.com/yesterdaygrace">
   <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=800&color=4ADE80&center=true&vCenter=true&width=720&height=44&lines=Junior+Software+Engineer+%40+Sahabat+Unggul;Backend+%C2%B7+Databases+%C2%B7+DevOps;Laravel+%E2%86%92+Go+%2B+TypeScript;Database+%E2%86%92+API+%E2%86%92+Infra+%E2%86%92+Security" />
