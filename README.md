@@ -198,7 +198,12 @@ flowchart LR
 
 <div align="center">
 
-<img alt="stack" src="https://skillicons.dev/icons?i=php,laravel,go,ts,js,react,vue,nuxt,tailwind,vite,postgres,mysql,sqlite,supabase,redis,linux,fedora,docker,nginx,githubactions,vercel,git&perline=11" />
+<table>
+<tr><td align="right"><b>Languages</b></td><td><img alt="Languages" src="https://skillicons.dev/icons?i=php,go,ts,js,html,css&theme=dark" /></td></tr>
+<tr><td align="right"><b>Frameworks</b></td><td><img alt="Frameworks" src="https://skillicons.dev/icons?i=laravel,react,vue,nuxt,tailwind,vite&theme=dark" /></td></tr>
+<tr><td align="right"><b>Data</b></td><td><img alt="Data" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&theme=dark" /></td></tr>
+<tr><td align="right"><b>Infra</b></td><td><img alt="Infra" src="https://skillicons.dev/icons?i=linux,fedora,docker,nginx,apache,githubactions,vercel,git&theme=dark" /></td></tr>
+</table>
 
 </div>
 
