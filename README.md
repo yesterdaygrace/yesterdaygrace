@@ -283,6 +283,6 @@ flowchart LR
 
 <div align="center">
 
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:14532d,50:16a34a,100:052e16" />
+<img width="100%" alt="yesterdaygrace, animated Y2K footer" src="assets/y2k-dots-footer.svg" />
 
 </div>
