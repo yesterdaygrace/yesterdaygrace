@@ -183,7 +183,8 @@ flowchart LR
 - 🐧 Support Linux servers: Docker containers, Apache and MySQL services, log monitoring
 - 🤝 Gather requirements with HR, Production, Finance and Warehouse; document code changes and procedures
 
-<img alt="Sahabat Unggul stack" src="https://skillicons.dev/icons?i=php,js,mysql,mariadb,docker,apache,linux&theme=dark" />
+<img alt="Sahabat Unggul stack" src="https://skillicons.dev/icons?i=php,js,mysql,docker,linux&theme=dark" /><br/>
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
 
 </details>
 
@@ -222,11 +223,11 @@ flowchart LR
 <table>
 <tr><td align="right"><b>Languages</b></td><td><img alt="Languages" src="https://skillicons.dev/icons?i=php,go,ts,js,html,css,bash&theme=dark" /></td></tr>
 <tr><td align="right"><b>Frameworks</b></td><td><img alt="Frameworks" src="https://skillicons.dev/icons?i=laravel,react,vue,nuxt,nodejs,tailwind,vite&theme=dark" /></td></tr>
-<tr><td align="right"><b>Data</b></td><td><img alt="Data" src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,redis&theme=dark" /></td></tr>
-<tr><td align="right"><b>Infra</b></td><td><img alt="Infra" src="https://skillicons.dev/icons?i=linux,fedora,ubuntu,docker,nginx,apache,vercel&theme=dark" /></td></tr>
+<tr><td align="right"><b>Data</b></td><td><img alt="Data" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&theme=dark" /> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></td></tr>
+<tr><td align="right"><b>Infra</b></td><td><img alt="Infra" src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,vercel&theme=dark" /> <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" /> <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" /></td></tr>
 <tr><td align="right"><b>CI/CD</b></td><td><img alt="CI/CD" src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" /> <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-18181b?style=for-the-badge&logo=githubactions&logoColor=white" /></td></tr>
 <tr><td align="right"><b>Quality &amp; security</b></td><td><img alt="Semgrep" src="https://img.shields.io/badge/Semgrep-18181b?style=for-the-badge&logo=semgrep&logoColor=white" /> <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white" /> <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp&logoColor=white" /></td></tr>
-<tr><td align="right"><b>Tools</b></td><td><img alt="Tools" src="https://skillicons.dev/icons?i=vscode,postman,github&theme=dark" /> <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img alt="Chrome DevTools" src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></td></tr>
+<tr><td align="right"><b>Tools</b></td><td><img alt="Tools" src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" /> <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img alt="Chrome DevTools" src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></td></tr>
 </table>
 
 </div>
