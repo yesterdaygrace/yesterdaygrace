@@ -202,7 +202,9 @@ flowchart LR
 <tr><td align="right"><b>Languages</b></td><td><img alt="Languages" src="https://skillicons.dev/icons?i=php,go,ts,js,html,css&theme=dark" /></td></tr>
 <tr><td align="right"><b>Frameworks</b></td><td><img alt="Frameworks" src="https://skillicons.dev/icons?i=laravel,react,vue,nuxt,tailwind,vite&theme=dark" /></td></tr>
 <tr><td align="right"><b>Data</b></td><td><img alt="Data" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis&theme=dark" /></td></tr>
-<tr><td align="right"><b>Infra</b></td><td><img alt="Infra" src="https://skillicons.dev/icons?i=linux,fedora,docker,nginx,apache,githubactions,vercel,git&theme=dark" /></td></tr>
+<tr><td align="right"><b>Infra</b></td><td><img alt="Infra" src="https://skillicons.dev/icons?i=linux,fedora,docker,kubernetes,nginx,apache,githubactions,vercel,git&theme=dark" /></td></tr>
+<tr><td align="right"><b>Quality &amp; security</b></td><td><img alt="Semgrep" src="https://img.shields.io/badge/Semgrep-0F172A?style=for-the-badge&logo=semgrep&logoColor=white" /> <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white" /> <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp&logoColor=white" /> <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-16a34a?style=for-the-badge&logo=githubactions&logoColor=white" /></td></tr>
+<tr><td align="right"><b>Workflow</b></td><td><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img alt="Chrome DevTools" src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></td></tr>
 </table>
 
 </div>
@@ -217,9 +219,11 @@ flowchart LR
 | **Backend** | Laravel, Livewire, Go (Gin, GORM), Nuxt/Nitro, Hono, Zod, REST, OpenAPI, JWT, OAuth 2.0, SSE |
 | **Frontend** | React 19, Vue 3, Nuxt, Pinia, TanStack Query, Tailwind, Vite, TypeScript, Chart.js |
 | **Data** | PostgreSQL, MySQL/MariaDB, SQLite (WAL), Redis, Supabase, ERD design, indexing, query tuning |
-| **Infra** | Linux, Docker Compose, Nginx, Apache, GitHub Actions, Vercel, systemd |
-| **Security** | AES-256-GCM, JWT rotation, bcrypt, RBAC, RLS, rate limiting, govulncheck |
-| **Testing** | testify, uber mock, Vitest, PHPUnit, Playwright, Postman |
+| **Infra** | Linux, Docker, Docker Compose, Kubernetes (learning), Nginx, Apache, systemd, Vercel |
+| **CI/CD** | GitHub Actions (build, test, lint, audit, deploy), Vercel, GitHub Pages |
+| **Security & quality** | OWASP, Semgrep, SonarQube, govulncheck, AES-256-GCM, JWT rotation, bcrypt, RBAC, RLS, rate limiting |
+| **Testing & debugging** | testify, uber mock, Vitest, PHPUnit, Playwright, Postman, Chrome DevTools |
+| **Workflow** | Jira, Git, Docker-based local environments |
 | **Browser** | Chromium extensions, content scripts, MutationObserver |
 | **AI tools** | Claude, Cursor, Codex, ChatGPT, OpenCode |
 
