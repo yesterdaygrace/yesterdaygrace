@@ -13,25 +13,13 @@
   <a href="#learning"><img src="assets/ui/jump-learning.svg" width="19%" alt="05 Learning"></a>
 </p>
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="assets/ui/profile-card.svg" width="100%" alt="Kevin Van Diesel Chansa, @yesterdaygrace. Junior Software Engineer. Focus: backend and databases. Now: Sahabat Unggul International. Education: Informatics, UKSW.">
-    </td>
-    <td width="60%" valign="top">
-      <h3>Hey, I'm Kevin.</h3>
-      <p>Junior software engineer working across backend, frontend, databases and DevOps. Informatics Engineering graduate (UKSW) with 2+ years shipping and maintaining business software.</p>
-      <p>At <b>PT Sahabat Unggul International</b> I maintain a factory's web and desktop apps and run its MySQL/MariaDB, Docker and Apache stack.</p>
-      <p>Outside work I build Go and TypeScript projects to move beyond my Laravel base.</p>
-      <table>
-        <tr><th>If you are</th><th>Start here</th></tr>
-        <tr><td>Hiring</td><td><a href="#experience">Experience</a> · <a href="https://www.linkedin.com/in/kevin-van-diesel-chansa/">LinkedIn</a></td></tr>
-        <tr><td>Reviewing code</td><td><a href="https://github.com/yesterdaygrace/SijiSiyu">SijiSiyu</a> · <a href="https://github.com/yesterdaygrace/Inventra">Inventra</a> (each has a <code>docs/</code> folder)</td></tr>
-        <tr><td>Short on time</td><td><a href="https://dev-scout-lac.vercel.app">DevScout demo</a> · <a href="https://yesterdaygrace.github.io/portfolio/">Portfolio</a></td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<img src="assets/ui/intro.svg" width="100%" alt="Kevin Van Diesel Chansa, @yesterdaygrace. Junior Software Engineer. Hey, I'm Kevin. Junior software engineer working across backend, frontend, databases and DevOps; Informatics Engineering graduate (UKSW) with 2+ years shipping and maintaining business software. At PT Sahabat Unggul International I maintain a factory's web and desktop apps and run its MySQL/MariaDB, Docker and Apache stack. Outside work I build Go and TypeScript projects to move beyond my Laravel base.">
+
+<p align="center">
+  <a href="#experience"><img src="assets/ui/path-hiring.svg" width="32%" alt="Hiring: see my experience"></a>
+  <a href="#projects"><img src="assets/ui/path-code.svg" width="32%" alt="Reviewing code: open the project folders"></a>
+  <a href="https://dev-scout-lac.vercel.app"><img src="assets/ui/path-fast.svg" width="32%" alt="Short on time: try the DevScout demo"></a>
+</p>
 
 <img src="assets/ui/divider.svg" width="100%" alt="">
 
