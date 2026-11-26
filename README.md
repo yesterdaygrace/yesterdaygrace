@@ -97,20 +97,34 @@
 <a name="experience"></a>
 <img src="assets/ui/sec-experience.svg" width="100%" alt="Experience. Where I have worked, 2024 to now.">
 
-<details open>
-<summary><img src="assets/ui/exp-sahabat.svg" width="100%" alt="Junior Software Engineer, PT Sahabat Unggul International. October 2026 to now. Click for details."></summary>
-<img src="assets/ui/exp-sahabat-body.svg" width="100%" alt="Fixed bugs and new features for SUI APPS V2.0; MySQL/MariaDB backups, tuning and monitoring; Linux, Docker and Apache support; requirements gathering with HR, Production, Finance and Warehouse.">
-</details>
+<a href="#e-sahabat"><img src="assets/ui/exp-sahabat.svg" width="100%" alt="Junior Software Engineer, PT Sahabat Unggul International. October 2026 to now. Click to read the full description below."></a>
 
-<details>
-<summary><img src="assets/ui/exp-dana.svg" width="100%" alt="Full Stack Web Developer intern, Dana Pensiun Sekolah Kristen Salatiga. August 2024 to December 2025. Click for details."></summary>
-<img src="assets/ui/exp-dana-body.svg" width="100%" alt="Migrated a legacy VDOS financial system to Laravel and built ledger, journal, cash and bank, reporting and reconciliation modules. Self-reported: 30 to 40 percent better efficiency, 25 to 30 percent fewer input errors.">
-</details>
+<a href="#e-dana"><img src="assets/ui/exp-dana.svg" width="100%" alt="Full Stack Web Developer intern, Dana Pensiun Sekolah Kristen Salatiga. August 2024 to December 2025. Click to read the full description below."></a>
 
-<details>
-<summary><img src="assets/ui/exp-ta.svg" width="100%" alt="Teaching Assistant, Universitas Kristen Satya Wacana. August to December 2024. Click for details."></summary>
-<img src="assets/ui/exp-ta-body.svg" width="100%" alt="Supported 4 classes and 100+ students, reviewed 400+ assignments, taught HTML, CSS, PHP and MySQL.">
-</details>
+<a href="#e-ta"><img src="assets/ui/exp-ta.svg" width="100%" alt="Teaching Assistant, Universitas Kristen Satya Wacana. August to December 2024. Click to read the full description below."></a>
+
+<p align="center"><sub>Click a role to jump to its full description below.</sub></p>
+
+<a name="e-sahabat"></a>
+<img src="assets/ui/e-sahabat.svg" width="100%" alt="Junior Software Engineer at PT Sahabat Unggul International: full description.">
+
+<p>
+  <a href="#experience"><img src="assets/ui/btn-top-exp.svg" height="36" alt="Back to the experience cards"></a>
+</p>
+
+<a name="e-dana"></a>
+<img src="assets/ui/e-dana.svg" width="100%" alt="Full Stack Web Developer at Dana Pensiun: full description.">
+
+<p>
+  <a href="#experience"><img src="assets/ui/btn-top-exp.svg" height="36" alt="Back to the experience cards"></a>
+</p>
+
+<a name="e-ta"></a>
+<img src="assets/ui/e-ta.svg" width="100%" alt="Teaching Assistant at UKSW: full description.">
+
+<p>
+  <a href="#experience"><img src="assets/ui/btn-top-exp.svg" height="36" alt="Back to the experience cards"></a>
+</p>
 
 <img src="assets/ui/divider.svg" width="100%" alt="">
 
