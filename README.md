@@ -144,38 +144,17 @@ flowchart LR
 
 <details open>
 <summary><img src="assets/ui/exp-sahabat.svg" width="100%" alt="Junior Software Engineer, PT Sahabat Unggul International. October 2026 to now. Click for details."></summary>
-
-<br/>
-
-- 🐞 Fix bugs and add features to SUI APPS V2.0 (web and desktop) from factory operations requirements
-- 🗄️ Run MySQL/MariaDB: backups, query tuning, monitoring
-- 🐧 Support Linux servers: Docker containers, Apache and MySQL services, log monitoring
-- 🤝 Gather requirements with HR, Production, Finance and Warehouse; document code changes and procedures
-
+<img src="assets/ui/exp-sahabat-body.svg" width="100%" alt="Fixed bugs and new features for SUI APPS V2.0; MySQL/MariaDB backups, tuning and monitoring; Linux, Docker and Apache support; requirements gathering with HR, Production, Finance and Warehouse.">
 </details>
 
 <details>
 <summary><img src="assets/ui/exp-dana.svg" width="100%" alt="Full Stack Web Developer intern, Dana Pensiun Sekolah Kristen Salatiga. August 2024 to December 2025. Click for details."></summary>
-
-<br/>
-
-- 🔁 Migrated a legacy VDOS-based financial system to Laravel
-- 📚 Built General Ledger, Journal Processing, Cash & Bank, Financial Reporting and Balance Reconciliation modules
-- 🧾 Turned accounting workflows into features with finance stakeholders, in 1 to 2 week sprints
-- ✅ Tested at unit, integration and UAT level before releases
-- 📈 Self-reported results: about 30 to 40% better operational efficiency and 25 to 30% fewer manual input errors
-
+<img src="assets/ui/exp-dana-body.svg" width="100%" alt="Migrated a legacy VDOS financial system to Laravel and built ledger, journal, cash and bank, reporting and reconciliation modules. Self-reported: 30 to 40 percent better efficiency, 25 to 30 percent fewer input errors.">
 </details>
 
 <details>
 <summary><img src="assets/ui/exp-ta.svg" width="100%" alt="Teaching Assistant, Universitas Kristen Satya Wacana. August to December 2024. Click for details."></summary>
-
-<br/>
-
-- 👩‍🏫 Supported 4 classes and 100+ students with debugging and applied problem-solving
-- 📝 Reviewed 400+ coding assignments and standardized grading across classes
-- 🌐 Taught HTML, CSS, PHP and MySQL fundamentals
-
+<img src="assets/ui/exp-ta-body.svg" width="100%" alt="Supported 4 classes and 100+ students, reviewed 400+ assignments, taught HTML, CSS, PHP and MySQL.">
 </details>
 
 <img src="assets/ui/divider.svg" width="100%" alt="">
