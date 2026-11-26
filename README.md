@@ -39,95 +39,50 @@
 <img src="assets/ui/sec-projects.svg" width="100%" alt="Projects. Selected work, 4 repositories.">
 
 <p align="center">
-  <a href="https://github.com/yesterdaygrace/SijiSiyu"><img src="assets/ui/f-sijisiyu.svg" width="210" alt="SijiSiyu: Threads saved-posts library. Open the repository."></a>
-  <a href="https://github.com/yesterdaygrace/DevScout"><img src="assets/ui/f-devscout.svg" width="210" alt="DevScout: developer sourcing and scoring. Open the repository."></a>
-  <a href="https://github.com/yesterdaygrace/Inventra"><img src="assets/ui/f-inventra.svg" width="210" alt="Inventra: multi-warehouse inventory. Open the repository."></a>
-  <a href="https://github.com/yesterdaygrace/DAPENSE"><img src="assets/ui/f-dapense.svg" width="210" alt="DAPENSE: pension fund accounting. Open the repository."></a>
+  <a href="#p-sijisiyu"><img src="assets/ui/f-sijisiyu.svg" width="210" alt="SijiSiyu: Threads saved-posts library. Click to read the project details below."></a>
+  <a href="#p-devscout"><img src="assets/ui/f-devscout.svg" width="210" alt="DevScout: developer sourcing and scoring. Click to read the project details below."></a>
+  <a href="#p-inventra"><img src="assets/ui/f-inventra.svg" width="210" alt="Inventra: multi-warehouse inventory. Click to read the project details below."></a>
+  <a href="#p-dapense"><img src="assets/ui/f-dapense.svg" width="210" alt="DAPENSE: pension fund accounting. Click to read the project details below."></a>
 </p>
 
-<details>
-<summary><b>🧵 SijiSiyu: local-first Threads library with a saved-posts scanner</b></summary>
+<p align="center"><sub>Click a folder to jump to its details below.</sub></p>
 
-<br/>
+<a name="p-sijisiyu"></a>
+<img src="assets/ui/p-sijisiyu.svg" width="100%" alt="SijiSiyu project details.">
 
-`Nuxt` `Vue 3` `TypeScript` `SQLite (WAL)` `Tailwind` `Chromium extension` · [repo](https://github.com/yesterdaygrace/SijiSiyu) · <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/SijiSiyu?style=flat-square&color=3f3f46&labelColor=18181b" />
+<p>
+  <a href="https://github.com/yesterdaygrace/SijiSiyu"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the SijiSiyu repository"></a>
+  <a href="#projects"><img src="assets/ui/btn-top.svg" height="36" alt="Back to the project folders"></a>
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/SijiSiyu?style=flat-square&color=3f3f46&labelColor=18181b">
+</p>
 
-```mermaid
-flowchart LR
-    X([Extension]) -->|sync| N[Nitro API] --> S[(SQLite WAL)]
-    N <-->|OAuth| M[Threads API]
-    N -- SSE --> U([Nuxt UI])
-    style X fill:#3f3f46,color:#fff,stroke:none
-    style U fill:#3f3f46,color:#fff,stroke:none
-```
+<a name="p-devscout"></a>
+<img src="assets/ui/p-devscout.svg" width="100%" alt="DevScout project details.">
 
-- Saving a post on `threads.net` streams it to the local app and shows a toast
-- `MutationObserver` captures new bookmarks as the `/saved` feed scrolls; a bulk scan walks the full history
-- Offline queue in `chrome.storage.local` flushes when the backend returns
-- Why an extension: Meta's Threads API has no Saved or Unsave endpoint, so the project reads the logged-in site instead
-- Tokens are AES-256-GCM encrypted at rest; sessions store only a SHA-256 hash; OAuth state guards against login CSRF
+<p>
+  <a href="https://github.com/yesterdaygrace/DevScout"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the DevScout repository"></a>
+  <a href="https://dev-scout-lac.vercel.app"><img src="assets/ui/btn-demo.svg" height="36" alt="Open the DevScout live demo"></a>
+  <a href="#projects"><img src="assets/ui/btn-top.svg" height="36" alt="Back to the project folders"></a>
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/DevScout?style=flat-square&color=3f3f46&labelColor=18181b">
+</p>
 
-</details>
+<a name="p-inventra"></a>
+<img src="assets/ui/p-inventra.svg" width="100%" alt="Inventra project details.">
 
-<details>
-<summary><b>🔎 DevScout: search, compare and score GitHub developers</b></summary>
+<p>
+  <a href="https://github.com/yesterdaygrace/Inventra"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the Inventra repository"></a>
+  <a href="#projects"><img src="assets/ui/btn-top.svg" height="36" alt="Back to the project folders"></a>
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/Inventra?style=flat-square&color=3f3f46&labelColor=18181b">
+</p>
 
-<br/>
+<a name="p-dapense"></a>
+<img src="assets/ui/p-dapense.svg" width="100%" alt="DAPENSE project details.">
 
-`Vue 3` `TypeScript` `Hono` `Supabase` `Tailwind` `Vite` `Vercel` · [repo](https://github.com/yesterdaygrace/DevScout) · [live demo](https://dev-scout-lac.vercel.app) · <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/DevScout?style=flat-square&color=3f3f46&labelColor=18181b" />
-
-```mermaid
-flowchart LR
-    A([Vue 3]) --> B[Hono proxy] --> G[GitHub API]
-    A --> C[(Supabase + RLS)]
-    style A fill:#3f3f46,color:#fff,stroke:none
-```
-
-- The GitHub token stays server-side behind a Zod-validated Hono proxy with rate limiting and a request queue
-- 6-factor candidate score (0 to 100) and a language breakdown over up to 20 non-fork repos
-- Row Level Security on all 7 tables; Vitest unit tests and Playwright E2E
-
-</details>
-
-<details>
-<summary><b>📦 Inventra: multi-warehouse inventory that protects stock</b></summary>
-
-<br/>
-
-`Go` `PostgreSQL 17` `React 19` `TypeScript` `Docker` `GitHub Actions` · [repo](https://github.com/yesterdaygrace/Inventra) · <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/Inventra?style=flat-square&color=3f3f46&labelColor=18181b" />
-
-```mermaid
-flowchart LR
-    A([React]) --> B[Gin] --> C[Service] --> D[GORM] --> E[(PostgreSQL)]
-    style A fill:#3f3f46,color:#fff,stroke:none
-```
-
-- Append-only ledger: corrections add a row, balances are derived on read
-- `SELECT ... FOR UPDATE` row locks inside transactions; idempotency keys return `409` on a changed body
-- JWT with refresh rotation and reuse detection, DB-backed RBAC, failure-safe audit trail
-- 17 tables, 13 migrations, CI coverage gate at 80% per package
-
-</details>
-
-<details>
-<summary><b>🏦 DAPENSE: pension fund accounting</b></summary>
-
-<br/>
-
-`Laravel` `PHP 8.3` `MySQL 8.4` `Redis` `Docker` `Nginx` · [repo](https://github.com/yesterdaygrace/DAPENSE) · <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/DAPENSE?style=flat-square&color=3f3f46&labelColor=18181b" />
-
-```mermaid
-flowchart LR
-    H[header_coas] --> C[coas] --> J[jurnalings] --> V[(views)]
-    P[periodes] --> J
-    style J fill:#3f3f46,color:#fff,stroke:none
-```
-
-- 3NF schema, 8 core tables, `NUMERIC(15,2)` money columns and a balanced-journal guard
-- Open, closed, then trial-balance snapshot per period
-- 4 roles enforced by Policies and Gates; encrypted backups with 30-day retention
-
-</details>
+<p>
+  <a href="https://github.com/yesterdaygrace/DAPENSE"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the DAPENSE repository"></a>
+  <a href="#projects"><img src="assets/ui/btn-top.svg" height="36" alt="Back to the project folders"></a>
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/DAPENSE?style=flat-square&color=3f3f46&labelColor=18181b">
+</p>
 
 **More repositories**
 
