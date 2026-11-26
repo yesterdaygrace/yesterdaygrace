@@ -40,7 +40,6 @@
 
 <p>
   <a href="https://github.com/yesterdaygrace/SijiSiyu"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the SijiSiyu repository"></a>
-  <a href="#projects"><img src="assets/ui/btn-top.svg" height="36" alt="Back to the project folders"></a>
   <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/SijiSiyu?style=flat-square&color=3f3f46&labelColor=18181b">
 </p>
 
@@ -50,7 +49,6 @@
 <p>
   <a href="https://github.com/yesterdaygrace/DevScout"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the DevScout repository"></a>
   <a href="https://dev-scout-lac.vercel.app"><img src="assets/ui/btn-demo.svg" height="36" alt="Open the DevScout live demo"></a>
-  <a href="#projects"><img src="assets/ui/btn-top.svg" height="36" alt="Back to the project folders"></a>
   <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/DevScout?style=flat-square&color=3f3f46&labelColor=18181b">
 </p>
 
@@ -59,7 +57,6 @@
 
 <p>
   <a href="https://github.com/yesterdaygrace/Inventra"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the Inventra repository"></a>
-  <a href="#projects"><img src="assets/ui/btn-top.svg" height="36" alt="Back to the project folders"></a>
   <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/Inventra?style=flat-square&color=3f3f46&labelColor=18181b">
 </p>
 
@@ -68,7 +65,6 @@
 
 <p>
   <a href="https://github.com/yesterdaygrace/DAPENSE"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the DAPENSE repository"></a>
-  <a href="#projects"><img src="assets/ui/btn-top.svg" height="36" alt="Back to the project folders"></a>
   <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/DAPENSE?style=flat-square&color=3f3f46&labelColor=18181b">
 </p>
 
@@ -96,23 +92,11 @@
 <a name="e-sahabat"></a>
 <img src="assets/ui/e-sahabat.svg" width="100%" alt="Junior Software Engineer at PT Sahabat Unggul International: full description.">
 
-<p>
-  <a href="#experience"><img src="assets/ui/btn-top-exp.svg" height="36" alt="Back to the experience cards"></a>
-</p>
-
 <a name="e-dana"></a>
 <img src="assets/ui/e-dana.svg" width="100%" alt="Full Stack Web Developer at Dana Pensiun: full description.">
 
-<p>
-  <a href="#experience"><img src="assets/ui/btn-top-exp.svg" height="36" alt="Back to the experience cards"></a>
-</p>
-
 <a name="e-ta"></a>
 <img src="assets/ui/e-ta.svg" width="100%" alt="Teaching Assistant at UKSW: full description.">
-
-<p>
-  <a href="#experience"><img src="assets/ui/btn-top-exp.svg" height="36" alt="Back to the experience cards"></a>
-</p>
 
 <img src="assets/ui/divider.svg" width="100%" alt="">
 
