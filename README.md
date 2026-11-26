@@ -40,7 +40,6 @@
 
 <p>
   <a href="https://github.com/yesterdaygrace/SijiSiyu"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the SijiSiyu repository"></a>
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/SijiSiyu?style=flat-square&color=3f3f46&labelColor=18181b">
 </p>
 
 <a name="p-devscout"></a>
@@ -49,7 +48,6 @@
 <p>
   <a href="https://github.com/yesterdaygrace/DevScout"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the DevScout repository"></a>
   <a href="https://dev-scout-lac.vercel.app"><img src="assets/ui/btn-demo.svg" height="36" alt="Open the DevScout live demo"></a>
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/DevScout?style=flat-square&color=3f3f46&labelColor=18181b">
 </p>
 
 <a name="p-inventra"></a>
@@ -57,7 +55,6 @@
 
 <p>
   <a href="https://github.com/yesterdaygrace/Inventra"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the Inventra repository"></a>
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/Inventra?style=flat-square&color=3f3f46&labelColor=18181b">
 </p>
 
 <a name="p-dapense"></a>
@@ -65,7 +62,6 @@
 
 <p>
   <a href="https://github.com/yesterdaygrace/DAPENSE"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the DAPENSE repository"></a>
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/yesterdaygrace/DAPENSE?style=flat-square&color=3f3f46&labelColor=18181b">
 </p>
 
 **More repositories**
