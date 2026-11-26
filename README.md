@@ -90,27 +90,7 @@
 
 <a name="stack"></a>
 <img src="assets/ui/sec-stack.svg" width="100%" alt="Stack. What I build with.">
-<img src="assets/ui/stack.svg" width="100%" alt="Tech stack icons. Languages: PHP, Go, TypeScript, JavaScript, HTML, CSS, Bash. Frameworks: Laravel, React, Vue, Nuxt, Node.js, Tailwind, Vite. Data: PostgreSQL, MySQL, MariaDB, SQLite, Supabase, Redis. Infra: Linux, Fedora, Ubuntu, Docker, Nginx, Apache, Vercel. CI/CD: Git, GitHub, GitHub Actions. Quality: Semgrep, SonarQube, OWASP. Tools: Postman, Jira, Chrome DevTools.">
-
-<details>
-<summary><b>🔎 Full breakdown</b></summary>
-
-<br/>
-
-| Layer | Tools |
-|---|---|
-| ⚙️ **Backend** | Laravel, Livewire, Go (Gin, GORM), Nuxt/Nitro, Hono, Zod, REST, OpenAPI, JWT, OAuth 2.0, SSE |
-| 🎨 **Frontend** | React 19, Vue 3, Nuxt, Pinia, TanStack Query, Tailwind, Vite, TypeScript, Chart.js |
-| 🗄️ **Data** | PostgreSQL, MySQL/MariaDB, SQLite (WAL), Redis, Supabase, ERD design, indexing, query tuning |
-| 🐳 **Infra** | Linux, Docker, Docker Compose, Nginx, Apache, systemd, Vercel, Kubernetes (learning) |
-| 🔁 **CI/CD** | GitHub Actions (build, test, lint, audit, deploy), Vercel, GitHub Pages |
-| 🛡️ **Security & quality** | OWASP, Semgrep, SonarQube, govulncheck, AES-256-GCM, JWT rotation, bcrypt, RBAC, RLS, rate limiting |
-| 🧪 **Testing & debugging** | testify, uber mock, Vitest, PHPUnit, Playwright, Postman, Chrome DevTools |
-| 🧰 **Workflow** | Jira, Git, VS Code, Docker-based local environments |
-| 🌐 **Browser** | Chromium extensions, content scripts, MutationObserver |
-| 🤖 **AI tools** | Claude, Cursor, Codex, ChatGPT, OpenCode |
-
-</details>
+<img src="assets/ui/stack.svg" width="100%" alt="Tech stack with a full breakdown by layer: languages, frameworks, data, infra, CI/CD, quality and security, tools.">
 
 <img src="assets/ui/divider.svg" width="100%" alt="">
 
@@ -119,33 +99,14 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yesterdaygrace&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=86d3a6" />
-  <img width="49%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=yesterdaygrace&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=18181b&text_color=3f3f46&icon_color=2f7a52" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yesterdaygrace&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0d1117&title_color=ffffff" />
-  <img width="38%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesterdaygrace&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=18181b&text_color=3f3f46" />
-</picture>
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yesterdaygrace&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0b0d&title_color=ffffff&text_color=d4d4d8&icon_color=86d3a6" />
+<img width="38%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesterdaygrace&layout=compact&hide_border=true&langs_count=8&bg_color=0b0b0d&title_color=ffffff&text_color=d4d4d8" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yesterdaygrace&hide_border=true&theme=dark&background=0d1117&ring=86d3a6&fire=86d3a6&currStreakLabel=ffffff" />
-  <img width="60%" alt="streak" src="https://streak-stats.demolab.com?user=yesterdaygrace&hide_border=true&background=ffffff&ring=2f7a52&fire=2f7a52&currStreakLabel=18181b" />
-</picture>
+<img width="60%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=yesterdaygrace&hide_border=true&background=0b0b0d&ring=86d3a6&fire=86d3a6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=86d3a6&sideLabels=a1a1aa&dates=71717a&stroke=27272a" />
+
+<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yesterdaygrace&bg_color=0b0b0d&color=e4e4e7&line=86d3a6&point=ffffff&area=true&area_color=86d3a6&hide_border=true" />
 
 </div>
-
-<details>
-<summary><b>📈 Contribution graph</b></summary>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yesterdaygrace&bg_color=0d1117&color=ffffff&line=86d3a6&point=ffffff&area=true&area_color=3f3f46&hide_border=true" />
-  <img width="100%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yesterdaygrace&bg_color=ffffff&color=18181b&line=2f7a52&point=18181b&area=true&area_color=d4d4d8&hide_border=true" />
-</picture>
-
-</details>
 
 <img src="assets/ui/divider.svg" width="100%" alt="">
 
