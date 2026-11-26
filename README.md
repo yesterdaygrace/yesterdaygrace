@@ -142,49 +142,39 @@ flowchart LR
 <a name="experience"></a>
 <img src="assets/ui/sec-experience.svg" width="100%" alt="Experience. Where I have worked, 2024 to now.">
 
-| When | Role |
-|---|---|
-| `Oct 2026 → now` | 🏭 **Junior Software Engineer**, PT Sahabat Unggul International (contract) |
-| `Aug 2024 → Dec 2025` | 🏦 **Full Stack Web Developer (intern)**, Dana Pensiun Sekolah Kristen Salatiga |
-| `Aug → Dec 2024` | 🎓 **Teaching Assistant**, Web Developer course, UKSW |
-
 <details open>
-<summary><b>🏭 Sahabat Unggul: factory systems</b></summary>
+<summary><img src="assets/ui/exp-sahabat.svg" width="100%" alt="Junior Software Engineer, PT Sahabat Unggul International. October 2026 to now. Click for details."></summary>
 
 <br/>
 
-- Fix bugs and add features to SUI APPS V2.0 (web and desktop) from factory operations requirements
-- Run MySQL/MariaDB: backups, query tuning, monitoring
-- Support Linux servers: Docker containers, Apache and MySQL services, log monitoring
-- Gather requirements with HR, Production, Finance and Warehouse; document code changes and procedures
-
-<img src="assets/ui/strip-sahabat.svg" height="40" alt="PHP, JavaScript, MySQL, MariaDB, Docker, Apache, Linux">
+- 🐞 Fix bugs and add features to SUI APPS V2.0 (web and desktop) from factory operations requirements
+- 🗄️ Run MySQL/MariaDB: backups, query tuning, monitoring
+- 🐧 Support Linux servers: Docker containers, Apache and MySQL services, log monitoring
+- 🤝 Gather requirements with HR, Production, Finance and Warehouse; document code changes and procedures
 
 </details>
 
 <details>
-<summary><b>🏦 Dana Pensiun: legacy VDOS to Laravel</b></summary>
+<summary><img src="assets/ui/exp-dana.svg" width="100%" alt="Full Stack Web Developer intern, Dana Pensiun Sekolah Kristen Salatiga. August 2024 to December 2025. Click for details."></summary>
 
 <br/>
 
-- Migrated a legacy VDOS-based financial system to Laravel
-- Built General Ledger, Journal Processing, Cash & Bank, Financial Reporting and Balance Reconciliation modules
-- Turned accounting workflows into features with finance stakeholders, in 1 to 2 week sprints
-- Tested at unit, integration and UAT level before releases
-- Self-reported results: about 30 to 40% better operational efficiency and 25 to 30% fewer manual input errors
-
-<img src="assets/ui/strip-dana.svg" height="40" alt="Laravel, PHP, JavaScript, MySQL, Nginx, Ubuntu, Git">
+- 🔁 Migrated a legacy VDOS-based financial system to Laravel
+- 📚 Built General Ledger, Journal Processing, Cash & Bank, Financial Reporting and Balance Reconciliation modules
+- 🧾 Turned accounting workflows into features with finance stakeholders, in 1 to 2 week sprints
+- ✅ Tested at unit, integration and UAT level before releases
+- 📈 Self-reported results: about 30 to 40% better operational efficiency and 25 to 30% fewer manual input errors
 
 </details>
 
 <details>
-<summary><b>🎓 Teaching assistant</b></summary>
+<summary><img src="assets/ui/exp-ta.svg" width="100%" alt="Teaching Assistant, Universitas Kristen Satya Wacana. August to December 2024. Click for details."></summary>
 
 <br/>
 
-4 classes, 100+ students, 400+ assignments reviewed. Taught HTML, CSS, PHP and MySQL, and standardized grading across classes.
-
-<img src="assets/ui/strip-ta.svg" height="40" alt="HTML, CSS, PHP, MySQL">
+- 👩‍🏫 Supported 4 classes and 100+ students with debugging and applied problem-solving
+- 📝 Reviewed 400+ coding assignments and standardized grading across classes
+- 🌐 Taught HTML, CSS, PHP and MySQL fundamentals
 
 </details>
 
