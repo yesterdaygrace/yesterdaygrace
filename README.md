@@ -64,14 +64,6 @@
   <a href="https://github.com/yesterdaygrace/DAPENSE"><img src="assets/ui/btn-repo.svg" height="36" alt="Open the DAPENSE repository"></a>
 </p>
 
-**More repositories**
-
-| Repo | What it is | Stack |
-|---|---|---|
-| 🎬 [CinemaSystem](https://github.com/yesterdaygrace/CinemaSystem) | Cinema ticketing backend assessment. PostgreSQL `btree_gist` blocks overlapping schedules. Its Redis seat lock is a design proposal only. | <img src="assets/ui/strip-cinema.svg" height="30" alt="Go, PostgreSQL, Docker"> |
-| 📝 [Nodex](https://github.com/yesterdaygrace/Nodex) | CRUD API with pagination and a test suite that locks the API contract | <img src="assets/ui/strip-nodex.svg" height="30" alt="Go, PostgreSQL, Vue, Vite"> |
-| 🌐 [portfolio](https://github.com/yesterdaygrace/portfolio) | Case-study portfolio; CI runs audit, typecheck and build, then deploys to GitHub Pages | <img src="assets/ui/strip-portfolio.svg" height="30" alt="React, TypeScript, Vite, GitHub Actions"> |
-
 <img src="assets/ui/divider.svg" width="100%" alt="">
 
 <a name="experience"></a>
