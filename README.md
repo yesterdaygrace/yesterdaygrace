@@ -1,13 +1,17 @@
 <img src="assets/ui/header.svg" width="100%" alt="Kevin Chansa. Backend, databases, DevOps. Animated halftone banner in a desktop window.">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevin-van-diesel-chansa/">LinkedIn</a> ·
-  <a href="https://yesterdaygrace.github.io/portfolio/">Portfolio</a> ·
-  <a href="https://dev-scout-lac.vercel.app">DevScout demo</a> ·
-  <a href="https://github.com/yesterdaygrace?tab=repositories">All repositories</a>
+  <img src="assets/ui/nav-title.svg" width="98%" alt="Navigate"><br>
+  <a href="https://www.linkedin.com/in/kevin-van-diesel-chansa/"><img src="assets/ui/nav-linkedin.svg" width="24%" alt="LinkedIn: profile and contact"></a>
+  <a href="https://yesterdaygrace.github.io/portfolio/"><img src="assets/ui/nav-portfolio.svg" width="24%" alt="Portfolio: case studies, live site"></a>
+  <a href="https://dev-scout-lac.vercel.app"><img src="assets/ui/nav-demo.svg" width="24%" alt="DevScout demo: live app on Vercel"></a>
+  <a href="https://github.com/yesterdaygrace?tab=repositories"><img src="assets/ui/nav-repos.svg" width="24%" alt="Repositories: all public code"></a><br>
+  <a href="#projects"><img src="assets/ui/jump-projects.svg" width="19%" alt="01 Projects"></a>
+  <a href="#experience"><img src="assets/ui/jump-experience.svg" width="19%" alt="02 Experience"></a>
+  <a href="#stack"><img src="assets/ui/jump-stack.svg" width="19%" alt="03 Stack"></a>
+  <a href="#stats"><img src="assets/ui/jump-stats.svg" width="19%" alt="04 Stats"></a>
+  <a href="#learning"><img src="assets/ui/jump-learning.svg" width="19%" alt="05 Learning"></a>
 </p>
-
-<p align="center"><b><a href="#projects">Projects</a> · <a href="#experience">Experience</a> · <a href="#stack">Stack</a> · <a href="#stats">Stats</a> · <a href="#learning">Learning</a></b></p>
 
 <table>
   <tr>
